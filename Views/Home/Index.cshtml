@@ -1,0 +1,16 @@
+﻿<h1>Register</h1>
+@model ValidateUser
+<form asp-action="Create" asp-controller="Home" method="POST">
+    <span asp-validation-for="FirstName"></span>
+    <p>First Name: <input asp-for="FirstName"></p>
+    <span asp-validation-for="LastName"></span>
+    <p>Last Name: <input asp-for="LastName"></p>
+    <span asp-validation-for="Email"></span>
+    <p>Email: <input asp-for="Email"></p>
+    <span asp-validation-for="Password"></span>
+    <p>Password: <input asp-for="Password"></p>
+    <span asp-validation-for="ConfirmPassword"></span>
+    <p>Confirm Password: <input asp-for="ConfirmPassword"></p>
+    <input type="submit" value="Submit">
+</form>
+<a href="/login">Already Registered?</a>

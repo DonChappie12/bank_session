@@ -1,0 +1,11 @@
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/bin/Debug/netcoreapp2.0/bank_session.deps.json
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/bin/Debug/netcoreapp2.0/bank_session.runtimeconfig.json
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/bin/Debug/netcoreapp2.0/bank_session.runtimeconfig.dev.json
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/bin/Debug/netcoreapp2.0/bank_session.dll
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/bin/Debug/netcoreapp2.0/bank_session.pdb
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/obj/Debug/netcoreapp2.0/bank_session.csprojResolveAssemblyReference.cache
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/obj/Debug/netcoreapp2.0/bank_session.csproj.CoreCompileInputs.cache
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/obj/Debug/netcoreapp2.0/bank_session.AssemblyInfoInputs.cache
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/obj/Debug/netcoreapp2.0/bank_session.AssemblyInfo.cs
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/obj/Debug/netcoreapp2.0/bank_session.dll
+/Users/marthagonzalez/Documents/Coding_Dojo/c#/ASP/entity/bank_session/obj/Debug/netcoreapp2.0/bank_session.pdb

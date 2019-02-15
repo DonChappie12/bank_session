@@ -1,0 +1,29 @@
+@model User
+<h1>Welcome @Model.FirstName</h1>
+<h3>Current Balance: $ @Model.Balance</h3>
+<form asp-action="Transaction" asp-controller="Home" method="POST">
+    <p>Deposit/Withdraw: <input type="number" name="Amount"></p>
+    <input type="submit" value="Make Transaction">
+</form>
+<div>
+    <h3>@ViewBag.broke</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Amount</th>
+                <th>Date of Transaction</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var trans in @Model.Transactions){
+            <tr>
+                <td>@trans.Amount</td>
+                <td>@trans.CreatedAt</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<form asp-action="Logout" asp-controller="Home" method="POST">
+    <input type="submit" value="Logout">
+</form>
